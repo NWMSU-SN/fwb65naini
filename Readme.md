@@ -12,6 +12,6 @@ cost(number)
 
 [Luggage](https://fwb65naini.herokuapp.com/luggage)
 
-[Addmods](https://fwb65naini.herokuapp.com/addmods)
+[Addmods](https://fwb65naini.herokuapp.com/addmods?rows=3&cols=4)
 
 [Selector](https://fwb65naini.herokuapp.com/selector)
